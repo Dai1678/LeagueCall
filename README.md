@@ -10,7 +10,7 @@ Google Assistant アプリです。
 ## Description
 
 ### 現在実装されている機能
-- チャンピオンのカウンターを教えてくれる機能  (champion_counter)
+- チャンピオンのカウンターを教えてくれる機能  (Champion_Counter)
 
 ### 実装予定されている機能
 - ゲーム中のプレイヤーのレート
@@ -37,7 +37,7 @@ Google Assistant アプリです。
 - firebase-function (firebase blazeプラン)
 
 ## Usage
-- champion_counter   
+- Champion_Counter   
 
 「(チャンピオン名)のカウンター」と話すと、そのチャンピオンが苦手とするチャンピオン3つと、   
 得意とするチャンピオン3つの名前を教えてくれます。   
