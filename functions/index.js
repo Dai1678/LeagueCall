@@ -55,7 +55,7 @@ exports.yourAction = functions.https.onRequest((request, response) =>
 
     switch (intent) {
         case WELCOME_INTENT:
-            app.ask('ようこそ、LeagueCallへ');
+            app.ask('ようこそ、リーグ・コールへ');
             break;
 
         case UNKNOWN_INTENT:
