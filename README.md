@@ -1,8 +1,8 @@
-# LoLSmartCall
+# LeagueCall
 
-LoLSmartCall (えるおーえるすまーとこーる)は、オンラインゲーム「League of Legends」についての色々な情報を伝えてくれる、
+LeagueCall (リーグ・コール)は、オンラインゲーム「League of Legends」についての色々な情報を伝えてくれる、
 Google Assistant アプリです。   
-    
+
 このアプリで使用しているデータは、LoL戦績サイト「OP.GG」(http://jp.op.gg/l=ja) のものを利用しています。
 
 現在も開発中です。一通りの機能実装とバグがなくなり次第、リリースの判断を行います。
@@ -30,9 +30,9 @@ Google Assistant アプリです。
 
 ## quirement
 
-- dialogflow 
+- dialogflow
 - Actions on Google
-- Node.js 
+- Node.js
 - cheerio-https (スクレイピング用モジュール)
 - firebase-function (firebase blazeプラン)
 
